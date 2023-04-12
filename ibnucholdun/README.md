@@ -15,3 +15,5 @@
 [CekPlagiasiJEPIN](cekplagiasiJepin.pdf)
 [BuktiJITEKI](BuktiJITEKI.pdf)
 [CekPlagiasiJITEKI](cekplagiasiJiteki.pdf)
+[BuktiIntellisys](BuktiIntellisys2019.pdf)
+[CekPlagiasiIntellisys](cekplagiasiPaperIntelisysIbnu.pdf)
