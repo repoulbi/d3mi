@@ -17,3 +17,5 @@
 [CekPlagiasiJITEKI](cekplagiasiJiteki.pdf)
 [BuktiIntellisys](BuktiIntellisys2019.pdf)
 [CekPlagiasiIntellisys](cekplagiasiPaperIntelisysIbnu.pdf)
+[BuktiICAIIT](BuktiICAIIT2019.pdf)
+[CekPlagiasiICAIIT](cekplagiasiicaiitIbnu_2019_8834664-2.pdf)
