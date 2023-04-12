@@ -10,4 +10,7 @@ Repositori Dr. Maniah, S.Kom., M.T.
 ## Jurnal Nasional Terakreditasi
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
+<<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
+## Seminar Internasional
+[Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
