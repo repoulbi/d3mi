@@ -11,3 +11,5 @@
 [Korespondensi_IEEE_Access](korespondensi_IEEE%20Access.pdf)
 [BuktiMatrik](buktimatrik.pdf)
 [CekPlagiasiMatrik](CekPlagiasipaperMatrik_Ibnu.pdf)
+[BuktiJEPIN](BuktiJEPIN.pdf)
+[CekPlagiasiJEPIN](cekplagiasiJepin.pdf)
