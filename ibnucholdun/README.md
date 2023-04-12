@@ -1,6 +1,6 @@
-# silahkan anda ketik judul
+# Muhammad Ibnu Choldun 
 
-## isi 
+## Ini merupakan repository saya
 
 
 [ini merupakan panduan repo ulbi](PeerJBuktiPeerJ_ComputerScience.pdf)
