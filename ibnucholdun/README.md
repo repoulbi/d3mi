@@ -9,3 +9,5 @@
 [Bukti_IEEE_Access](BuktiPaperIEEEAccess.pdf)
 [CekPlagiasi_IEEE_Access](cekplagiasiIEEEAccess_Ibnu09252936-4.pdf)
 [Korespondensi_IEEE_Access](korespondensi_IEEE%20Access.pdf)
+[BuktiMatrik](buktimatrik.pdf)
+[CekPlagiasiMatrik](CekPlagiasipaperMatrik_Ibnu.pdf)
