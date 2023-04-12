@@ -13,3 +13,5 @@
 [CekPlagiasiMatrik](CekPlagiasipaperMatrik_Ibnu.pdf)
 [BuktiJEPIN](BuktiJEPIN.pdf)
 [CekPlagiasiJEPIN](cekplagiasiJepin.pdf)
+[BuktiJITEKI](BuktiJITEKI.pdf)
+[CekPlagiasiJITEKI](cekplagiasiJiteki.pdf)
