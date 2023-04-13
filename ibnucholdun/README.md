@@ -21,3 +21,5 @@
 [CekPlagiasiICAIIT](cekplagiasiicaiitIbnu.pdf)
 [BuktiICSCA](BuktiICSCA.pdf)
 [CekPlagiasiICSCA](cekplagiasiICSCA2019_p357_Ibnu.pdf)
+[BuktiISCLO](BuktiISCLO.pdf)
+[CekPlagiasiISCLO](cekplagiasipaperisclo2014ibnu.pdf)
