@@ -29,3 +29,5 @@
 [CekPlagiasiSEMNASRISTEK](cekplagiasipaperIbnuSemnaristek2019.pdf)
 [BuktiHAKIarya](2022_PKM_ibnu20221222-hasil-0418068501-sertifikat_EC002022104962.pdf)
 [FileProdukHAKIArya](FileHAKIArya.pdf)
+[BuktiHAKITruck](2021_HCIbnu_Sari_Trucking20210407-hasil-0403057701-sertifikat_EC00202117756.pdf)
+[FileProdukTruck](FileHAKIJatisi.pdf)
