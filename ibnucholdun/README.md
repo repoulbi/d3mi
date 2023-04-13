@@ -25,3 +25,5 @@
 [CekPlagiasiISCLO](cekplagiasipaperisclo2014ibnu.pdf)
 [BuktiSENDIU](BuktiSENDIU.pdf)
 [CekPlagiasiSENDIU](cekplagiasisendiuIbnu2021.pdf)
+[BuktiSEMNASRISTEK](BuktiProsiding%20Semnas%20Ristek%202019_1.pdf)
+[CekPlagiasiSEMNASRISTEK](cekplagiasipaperIbnuSemnaristek2019.pdf)
