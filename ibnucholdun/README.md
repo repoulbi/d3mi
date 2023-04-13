@@ -23,3 +23,5 @@
 [CekPlagiasiICSCA](cekplagiasiICSCA2019_p357_Ibnu.pdf)
 [BuktiISCLO](BuktiISCLO.pdf)
 [CekPlagiasiISCLO](cekplagiasipaperisclo2014ibnu.pdf)
+[BuktiSENDIU](BuktiSENDIU.pdf)
+[CekPlagiasiSENDIU](cekplagiasisendiuIbnu2021.pdf)
