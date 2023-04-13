@@ -31,3 +31,5 @@
 [FileProdukHAKIArya](FileHAKIArya.pdf)
 [BuktiHAKITruck](2021_HCIbnu_Sari_Trucking20210407-hasil-0403057701-sertifikat_EC00202117756.pdf)
 [FileProdukTruck](FileHAKIJatisi.pdf)
+[BuktiDLImprove](BuktiPaperDL.pdf)
+[CekPlagiasiDL](cekplagiasi_PaperDL_1-1.pdf)
