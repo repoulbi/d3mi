@@ -27,5 +27,5 @@
 [CekPlagiasiSENDIU](cekplagiasisendiuIbnu2021.pdf)
 [BuktiSEMNASRISTEK](BuktiProsiding%20Semnas%20Ristek%202019_1.pdf)
 [CekPlagiasiSEMNASRISTEK](cekplagiasipaperIbnuSemnaristek2019.pdf)
-[BuktiHAKIarya](FileHAKIArya.pdf)
+[BuktiHAKIarya](2022_PKM_ibnu20221222-hasil-0418068501-sertifikat_EC002022104962.pdf)
 [FileProdukHAKIArya](FileHAKIArya.pdf)
