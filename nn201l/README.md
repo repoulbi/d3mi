@@ -9,7 +9,7 @@ Repositori Dr. Maniah, S.Kom., M.T.
 ##
 [Sustainable Supply Chain for Circular Economy](./Book%20Chapter/Sustainable%20Supply%20Chain%20for%20Circular%20Economy.pdf)
 ## Jurnal Internasional
-[Download Jurnal Internasional](./Jurnal%20Internasional/Jurnal%20Q1%20-%20Maniah.pdf)
+[Jurnal Internasional - Q1](./Jurnal%20Internasional/Jurnal%20Q1%20-%20Maniah.pdf)
 ## Jurnal Nasional Terakreditasi
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
 ##
