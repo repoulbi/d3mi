@@ -33,3 +33,7 @@
 [FileProdukTruck](FileHAKIJatisi.pdf)
 [BuktiDLImprove](BuktiPaperDL.pdf)
 [CekPlagiasiDL](cekplagiasi_PaperDL_1-1.pdf)
+[BuktiJOSH](BuktiPaperJOSH.pdf)
+[CekPlagiasiJOSH](cekplagiasijoshIbnupaper.pdf)
+[BuktiJurikom](BuktiPaperJurikom.pdf)
+[CekPlagiasiJurikom](cekplagiasipaperjurikomIbnu.pdf)
