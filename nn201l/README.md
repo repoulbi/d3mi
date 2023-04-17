@@ -17,6 +17,8 @@ Repositori Dr. Maniah, S.Kom., M.T.
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
+##
+[Improve Volume 11, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-11.2/Improve%2011.2-%20Maniah.pdf)
 
 ## Seminar Internasional
 
