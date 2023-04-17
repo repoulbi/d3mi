@@ -16,7 +16,7 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
-[Improve Volume 10, No.1]
+[Improve Volume 10, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
 
 ## Seminar Internasional
 
