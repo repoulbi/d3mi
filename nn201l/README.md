@@ -51,4 +51,8 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Paper ICVEE 2020](./Seminar%20Internasional/ICVEE%202020/Paper%20ICVEE%202020.pdf)
 #
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ICVEE%202020/Cek%20Similarity.pdf)
+
+## Seminar Nasional
+
+[Paper SINERGI 2018](./Seminar%20Nasional/Paper%20SINERGI%202018.pdf)
 >>>>>>> 4bc9fe28ef9a21f21c9435943092e2ca9b5549c2
