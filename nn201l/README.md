@@ -17,24 +17,38 @@ Repositori Dr. Maniah, S.Kom., M.T.
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
-##
+#
+[Improve Volume 11, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
+#
 [Improve Volume 11, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-11.2/Improve%2011.2-%20Maniah.pdf)
+#
+[Improve Volume 12, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-12.1/Improve_12-1.pdf)
+#
+[Improve Volume 12, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-12.2/Improve_12-2.pdf)
+#
+[Improve Volume 13, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-13.1/Artikel_13-1.pdf)
+#
+[Improve Volume 13, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-13.2/13-2.pdf)
+#
+[Improve Volume 14, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-14.1/14-1.pdf)
+#
+[Improve Volume 14, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-14.2/14-2.pdf)
 
 ## Seminar Internasional
 
 [Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
-##
+#
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/Cek%20Similarity.pdf)
 ##
 [Paper ISICO 2019](./Seminar%20Internasional/ISICO%202019/Paper%20ISICO%202019.pdf)
-##
+#
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ISICO%202019/Cek%20Similarity%20Paper%20ISICO%202019.pdf)
 ##
 [Paper TALE-IEEE 2019](./Seminar%20Internasional/TALE_IEEE%202019/Paper%20TALE-IEEE%202019.pdf)
-##
+#
 [Klik untuk Cek Similarity](./Seminar%20Internasional/TALE_IEEE%202019/Cek%20Similarity%20TALE-IEEE%202019.pdf)
 ##
 [Paper ICVEE 2020](./Seminar%20Internasional/ICVEE%202020/Paper%20ICVEE%202020.pdf)
-##
+#
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ICVEE%202020/Cek%20Similarity.pdf)
 >>>>>>> 4bc9fe28ef9a21f21c9435943092e2ca9b5549c2
