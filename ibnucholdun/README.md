@@ -37,3 +37,5 @@
 [CekPlagiasiJOSH](cekplagiasijoshIbnupaper.pdf)
 [BuktiJurikom](BuktiPaperJurikom.pdf)
 [CekPlagiasiJurikom](cekplagiasipaperjurikomIbnu.pdf)
+[BuktiHAKISuntenjaya](HAKI_suntenjaya.pdf)
+[FileProdukSuntenjaya](ArtikelHAKI_suntenjaya.pdf)
