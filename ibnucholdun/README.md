@@ -39,3 +39,6 @@
 [CekPlagiasiJurikom](cekplagiasipaperjurikomIbnu.pdf)
 [BuktiHAKISuntenjaya](HAKI_suntenjaya.pdf)
 [FileProdukSuntenjaya](ArtikelHAKI_suntenjaya.pdf)
+[BuktiHAKIJatisiBaru](BuktiHAKI_Jatisi.pdf)
+[BuktiHAKIAryaBaru](BuktiHAKI_Arya.pdf)
+[BuktiHAKISuntenjayaBaru](BuktiHAKI_Suntenjaya.pdf)
