@@ -42,3 +42,5 @@
 [BuktiHAKIJatisiBaru](BuktiHAKI_Jatisi.pdf)
 [BuktiHAKIAryaBaru](BuktiHAKI_Arya.pdf)
 [BuktiHAKISuntenjayaBaru](BuktiHAKI_Suntenjaya.pdf)
+[ProsidingISCLO2014](prosiding_isclo2014_Ibnu.pdf)
+[ProsidingSemnasristek2019](Prosiding%20Semnas%20Ristek%202019.pdf)
