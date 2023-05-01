@@ -89,3 +89,4 @@
 
 ## BUKTI Penelitian mulai 1 Mei 2023
 
+[BuktiJatisi2023](BuktiJATISI_1Mei2023.pdf)
