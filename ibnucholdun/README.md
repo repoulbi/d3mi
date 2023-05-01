@@ -90,3 +90,6 @@
 ## BUKTI Penelitian mulai 1 Mei 2023
 
 [BuktiJatisi2023](BuktiJATISI_1Mei2023.pdf)
+[BuktiPaperHanifah](BuktiPaperHanifah.pdf)
+[BuktiPaperFitrinda](BuktipaperFitrinda.pdf)
+[BuktiPaperBhasDaf](BuktiPaperBhaswara1Mei2023.pdf)
