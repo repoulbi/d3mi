@@ -44,6 +44,9 @@
 [BuktiHAKISuntenjayaBaru](BuktiHAKI_Suntenjaya.pdf)
 [ProsidingISCLO2014](prosiding_isclo2014_Ibnu.pdf)
 [ProsidingSemnasristek2019](Prosiding%20Semnas%20Ristek%202019.pdf)
+
+## Ini REPO PAPER
+
 [1RepoIEEEAccess](repo1_IEEEAccess_Ibnu09252936.pdf)
 [2RepoPeerJ](repo2_PeerjIbnu2021-cs-724.pdf)
 [3RepoICSCA](repo3_ICSCA2019_p357-Ibnu.pdf)
@@ -63,7 +66,7 @@
 [17RepoPaperFitrinda](repo17_ImproveGenap2019_paperFitrinda.pdf)
 [18RepoPaperBhaswaraDaffa](repo18_ImproveGenap2021_BhaswaraDafa.pdf)
 
-## Ini merupakan repository saya
+## Ini CEK PLAGIASI
 
 [1CekPlagiasiIEEEAccess](1CekPlagiasiIEEEAccess_Ibnu09252936.pdf)
 [2CekPlagiasiPeerJ](2cekplagiasipeerjIbnu2021_cs_724.pdf)
