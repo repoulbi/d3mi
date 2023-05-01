@@ -82,7 +82,7 @@
 [9CekPlagiasiJATISI](9Cekplagiasi_paperjatisi.pdf)
 [10CekPlagiasiJOSH](10cekplagiasijoshIbnupaper.pdf)
 [11CekPlagiasiJurikom](11cekplagiasipaperjurikomIbnu.pdf)
-[12CekPlagiasiISCLO](12cekplagiasipaperisclo2014ibnu.pdf)
+[12CekPlagiasiISCLO](12cekplagiasipaperisclo2014.pdf)
 [13CekPlagiasiSENDIU](13cekplagiasisendiuIbnu2021.pdf)
 [14Semnasristek](14cekplagiasipaperIbnuSemnaristek2019.pdf)
 [15CekPlagiasiPaperDL](15cekplagiasiPaperDL.pdf)
