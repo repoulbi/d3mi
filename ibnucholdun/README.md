@@ -96,3 +96,8 @@
 [BuktiPaperHanifah](BuktiPaperHanifah.pdf)
 [BuktiPaperFitrinda](BuktipaperFitrinda.pdf)
 [BuktiPaperBhasDaf](BuktiPaperBhaswara1Mei2023.pdf)
+
+## BUKTI Korespondensi Jurnal Internasional
+
+[KorespondensiIEEEAccess](korespondensi_IEEE%20Access1Mei2023.pdf)
+[KorespondensiPeerJ_CS](KorespondensiPeerJ%20Computer%20Science_1Mei2023.pdf)
