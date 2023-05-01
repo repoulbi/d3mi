@@ -85,4 +85,4 @@
 [15CekPlagiasiPaperDL](15cekplagiasiPaperDL.pdf)
 [16CekPlagiasiPaperHanifah](16CekplagiasiPaperHanifah.pdf)
 [17CekPlagiasiPaperFitrinda](17cekplagiasipaperFitrinda.pdf)
-[1Furfhe8BFbkEhXn1xcYPr8jYAACNpfV7p](18CekPlagiasi_BhaswaraDaffa.pdf)
+[18CekPlagiasiPaperBhasDaf](18CekPlagiasi_BhaswaraDaffa.pdf)
