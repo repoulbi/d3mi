@@ -86,3 +86,6 @@
 [16CekPlagiasiPaperHanifah](16CekplagiasiPaperHanifah.pdf)
 [17CekPlagiasiPaperFitrinda](17cekplagiasipaperFitrinda.pdf)
 [18CekPlagiasiPaperBhasDaf](18CekPlagiasi_BhaswaraDaffa.pdf)
+
+## BUKTI Penelitian mulai 1 Mei 2023
+
