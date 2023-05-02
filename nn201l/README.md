@@ -37,9 +37,9 @@ Repositori Dr. Maniah, S.Kom., M.T.
 ## Seminar Internasional
 [Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
 #
-[Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/Cek%20Similarity.pdf)
+[Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
 ##
-[Paper ISICO 2019](./Seminar%20Internasional/ISICO%202019/Paper%20ISICO%202019.pdf)
+[Paper ISICO 2019](./Seminar%20Internasional/ISICO%202019/Cek%20Similarity%20Paper%20ISICO%202019.pdf)
 #
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ISICO%202019/Cek%20Similarity%20Paper%20ISICO%202019.pdf)
 ##
