@@ -17,6 +17,9 @@ Repositori Dr. Maniah, S.Kom., M.T.
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
+[Improve Volume 10, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
+
+
 #
 [Improve Volume 11, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
 #
@@ -55,4 +58,3 @@ Repositori Dr. Maniah, S.Kom., M.T.
 ## Seminar Nasional
 
 [Paper SINERGI 2018](./Seminar%20Nasional/Paper%20SINERGI%202018.pdf)
->>>>>>> 4bc9fe28ef9a21f21c9435943092e2ca9b5549c2
