@@ -16,29 +16,25 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
-[Improve Volume 10, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
 [Improve Volume 10, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
-
-
 #
-[Improve Volume 11, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
+[Improve Volume 11, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
 #
-[Improve Volume 11, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-11.2/Improve%2011.2-%20Maniah.pdf)
+[Improve Volume 11, No.2](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-11.2/Improve%2011.2-%20Maniah.pdf)
 #
-[Improve Volume 12, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-12.1/Improve_12-1.pdf)
+[Improve Volume 12, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-12.1/Improve_12-1.pdf)
 #
-[Improve Volume 12, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-12.2/Improve_12-2.pdf)
+[Improve Volume 12, No.2](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-12.2/Improve_12-2.pdf)
 #
-[Improve Volume 13, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-13.1/Artikel_13-1.pdf)
+[Improve Volume 13, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-13.1/Artikel_13-1.pdf)
 #
-[Improve Volume 13, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-13.2/13-2.pdf)
+[Improve Volume 13, No.2](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-13.2/13-2.pdf)
 #
-[Improve Volume 14, No.1](./Jurnal%20Tidak%20Terakreditasi/Improve-14.1/14-1.pdf)
+[Improve Volume 14, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-14.1/14-1.pdf)
 #
-[Improve Volume 14, No.2](./Jurnal%20Tidak%20Terakreditasi/Improve-14.2/14-2.pdf)
+[Improve Volume 14, No.2](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-14.2/14-2.pdf)
 
 ## Seminar Internasional
-
 [Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
 #
 [Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/Cek%20Similarity.pdf)
