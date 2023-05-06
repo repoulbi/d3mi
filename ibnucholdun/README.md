@@ -86,9 +86,9 @@
 [13CekPlagiasiSENDIU](13cekplagiasisendiuIbnu2021.pdf)
 [14CekPlagiasiSemnasristek](14cekplagiasipaperIbnuSemnaristek2019.pdf)
 [15CekPlagiasiPaperDL](15cekplagiasiPaperDL.pdf)
-[16CekPlagiasiPaperHanifah](16CekplagiasiPaperHanifah.pdf)
+[16CekPlagiasiPaperHanifah](16CekplagiasiPaperHanifah_6Mei2023.pdf)
 [17CekPlagiasiPaperFitrinda](17cekplagiasipaperFitrinda.pdf)
-[18CekPlagiasiPaperBhasDaf](18CekPlagiasi_BhaswaraDaffa.pdf)
+[18CekPlagiasiPaperBhasDaf](18CekPlagiasi_BhasDaf_6Mei2023.pdf)
 
 ## BUKTI Penelitian mulai 1 Mei 2023
 
