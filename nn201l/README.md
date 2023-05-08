@@ -62,3 +62,6 @@ Repositori Dr. Maniah, S.Kom., M.T.
 ## Seminar Nasional
 
 [Paper SINERGI 2018](./Seminar%20Nasional/Paper%20SINERGI%202018.pdf)
+
+[cek similarity](./Seminar%20Nasional/4__Paper_SINERGI_2018_cek%20similarity.pdf)
+
