@@ -8,6 +8,8 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Etika Profesi Teknologi dan Informasi](./Book%20Chapter/E-BOOK_Etika%20Profesi%20Teknologi%20dan%20Informasi_compressed.pdf)
 ##
 [Sustainable Supply Chain for Circular Economy](./Book%20Chapter/Sustainable%20Supply%20Chain%20for%20Circular%20Economy.pdf)
+##
+[cek similarity](./Book%20Chapter/cek%20similarity%20sustainable%20SCM.pdf)
 ## Jurnal Internasional
 [Jurnal Internasional - Q1](./Jurnal%20Internasional/Jurnal%20Q1%20-%20Maniah.pdf)
 
