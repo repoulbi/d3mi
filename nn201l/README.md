@@ -16,8 +16,12 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Cek Similarity](./Jurnal%20Internasional/1__Paper_King_Saud-2-cek%20similarity.pdf)
 ## Jurnal Nasional Terakreditasi
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
+
+[cek similarity](./Jurnal%20Nasional%20Terakreditasi/2__Jurnal_IJCCS_Sinta_2_Maniah-cek%20similarity.pdf)
 ##
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
+
+[cek similarity](./Jurnal%20Nasional%20Terakreditasi/3__Jurnal_JATISI_Sinta_3_Maniah-cek%20similarity.pdf)
 <<<<<<< HEAD
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
