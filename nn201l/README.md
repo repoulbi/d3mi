@@ -89,11 +89,11 @@ Repositori Dr. Maniah, S.Kom., M.T.
 
 [Paper ISICO 2019](./Seminar%20Internasional/ISICO%202019/Paper%20ISICO%202019.pdf)
 
-[Klik untuk Cek Similarity](/nn201l/Seminar%20Internasional/ISICO%202019/CekSimilarityPaperISICO2019.pdf)
+[Klik untuk Cek Similarity](./Seminar%20Internasional/ISICO%202019/ceksimialirity.pdf)
 
 [Paper TALE-IEEE 2019](./Seminar%20Internasional/TALE_IEEE%202019/Paper%20TALE-IEEE%202019.pdf)
 
-[Klik untuk Cek Similarity](/nn201l/Seminar%20Internasional/TALE_IEEE%202019/Cek%20Similarity%20TALE-IEEE%202019.pdf)
+[Klik untuk Cek Similarity](./Seminar%20Internasional/TALE_IEEE%202019/ceksimialirity.pdf)
 
 ## Seminar Nasional
 
