@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
-=======
+
 Repositori Dr. Maniah, S.Kom., M.T.
 
 ## Book Chapter
@@ -23,12 +22,11 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
 
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Terakreditasi/2__Jurnal_IJCCS_Sinta_2_Maniah-cek%20similarity.pdf)
-
 ##
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
 
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Terakreditasi/3__Jurnal_JATISI_Sinta_3_Maniah-cek%20similarity.pdf)
-<<<<<<< HEAD
+
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
 
@@ -83,24 +81,22 @@ Repositori Dr. Maniah, S.Kom., M.T.
 
 
 ## Seminar Internasional
-[Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
-##
-[Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/Cek%20Similarity.pdf)
 
+[Paper ICIMTech 2018](./Seminar%20Internasional/ICIMTech%202018/Paper%20ICIMTech%202018.pdf)
+
+[Klik untuk Cek Similarity](./Seminar%20Internasional/ICIMTech%202018/ceksimilarity.pdf)
+
+[Paper ICVEE 2020](./Seminar%20Internasional/ICVEE%202020/PaperICVEE2020.pdf)
+
+[Klik untuk Cek Similarity](./Seminar%20Internasional/ICVEE%202020/ceksimilarity.pdf)
 
 [Paper ISICO 2019](./Seminar%20Internasional/ISICO%202019/Paper%20ISICO%202019.pdf)
-##
-[Klik untuk Cek Similarity](./Seminar%20Internasional/ISICO%202019/Cek%20Similarity%20Paper%20ISICO%202019.pdf)
 
+[Klik untuk Cek Similarity](./Seminar%20Internasional/ISICO%202019/ceksimialirity.pdf)
 
 [Paper TALE-IEEE 2019](./Seminar%20Internasional/TALE_IEEE%202019/Paper%20TALE-IEEE%202019.pdf)
-##
-[Klik untuk Cek Similarity](./Seminar%20Internasional/TALE_IEEE%202019/Cek%20Similarity%20TALE-IEEE%202019.pdf)
 
-
-[Paper ICVEE 2020](./Seminar%20Internasional/ICVEE%202020/Paper%20ICVEE%202020.pdf)
-##
-[Klik untuk Cek Similarity](./Seminar%20Internasional/ICVEE%202020/Paper%20ICVEE%202020.pdf)
+[Klik untuk Cek Similarity](./Seminar%20Internasional/TALE_IEEE%202019/ceksimialirity.pdf)
 
 ## Seminar Nasional
 

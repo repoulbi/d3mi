@@ -3,17 +3,27 @@
 ## Ini merupakan repository saya
 
 ## BUKTI PAPER
-[Bukti paper PeerJ](PeerJBuktiPeerJ_ComputerScience.pdf)
-[Bukti_IEEE_Access](BuktiPaperIEEEAccess.pdf)
-[BuktiMatrik](buktimatrik.pdf)
-[BuktiJEPIN](BuktiJEPIN.pdf)
-[BuktiJITEKI](BuktiJITEKI.pdf)
-[BuktiIntellisys](BuktiIntellisys2019.pdf)
-[BuktiICAIIT](BuktiICAIIT2019.pdf)
-[BuktiICSCA](BuktiICSCA.pdf)
-[BuktiISCLO](BuktiISCLO.pdf)
-[BuktiSENDIU](BuktiSENDIU.pdf)
-[BuktiSEMNASRISTEK](BuktiProsiding%20Semnas%20Ristek%202019_1.pdf)
+[1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
+[2BuktiPaperPeerJ](2BuktiPaperPeerJ_10Mei2023.pdf)
+[3BuktiPaperICSCA](3BuktiPaperICSCA_10Mei2023.pdf)
+[4BuktiPaperICAIIT](4BuktiPaperICAIIT_10Mei2023.pdf)
+[5BuktiPaperIntellisys](5BuktiPaperIntellysis_10Mei2023.pdf)
+[6BuktiPaperJiteki](6BuktiPaperJiteki_10mei2023.pdf)
+[7BuktiPaperJEPIN](7BuktiJPaperJepin_10Mei2023.pdf)
+[8BuktiPaperMatrik](8BuktiPaperMatrik_10Mei2023.pdf)
+[9BuktiPaperJatisi](9BuktiPaperJatisi_10mei2023.pdf)
+[10BuktiPaperJOSH](10BuktiPaperJosh_10Mei2023.pdf)
+[11BuktiPaperJurikom](11BuktiPaperJurikom_10Mei2023.pdf)
+[12BuktiPaperISCLO](12BuktiPaperISCLO_10Mei2023.pdf)
+[13BuktipaperSENDIU](13BuktiPaperSendiu_10Mei2023.pdf)
+[14BuktiPaperSEMNASRISTEK](14BuktiPaperSemnasristek_10Mei23.pdf)
+[15BuktipaperDL](15BuktiPaperDL_10Mei2023.pdf)
+[16BuktipaperHanifah](16BuktiPaperHanifah_10Mei2023.pdf)
+[17BuktipaperFitrinda](17BuktiPaperFitrinda_10Mei2023.pdf)
+[18BuktipaperBhasDaf](18BuktiPaperBhasDaf_10Mei2023.pdf)
+
+## Ini BUKTI HAKI
+
 [BuktiHAKIarya](2022_PKM_ibnu20221222-hasil-0418068501-sertifikat_EC002022104962.pdf)
 [FileProdukHAKIArya](FileHAKIArya.pdf)
 [BuktiHAKITruck](2021_HCIbnu_Sari_Trucking20210407-hasil-0403057701-sertifikat_EC00202117756.pdf)
