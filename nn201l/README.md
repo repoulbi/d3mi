@@ -16,6 +16,9 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Jurnal Internasional - Q1](./Jurnal%20Internasional/Jurnal%20Q1%20-%20Maniah.pdf)
 
 [Klik untuk Cek Similarity](./Jurnal%20Internasional/1__Paper_King_Saud-2-cek%20similarity.pdf)
+
+[Korespondensi Journal of King Saud University](./Korespondensi%20Jurnal%20Internasional/Korespondensi%20King%20saud%20-%20Maniah.pdf)
+
 ## Jurnal Nasional Terakreditasi
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
 
