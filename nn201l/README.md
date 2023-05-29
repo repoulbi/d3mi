@@ -22,10 +22,16 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Jurnal Nasional Terakreditasi- Sinta2](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20IJCCS%20Sinta-2.pdf)
 
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Terakreditasi/2__Jurnal_IJCCS_Sinta_2_Maniah-cek%20similarity.pdf)
-##
+
+[Korespondensi Jurnal IJCCS](./Jurnal%20Nasional%20Terakreditasi/Korespondensi%20IJCCS%20-%20Maniah.pdf)
+
 [Jurnal Nasional Terakreditasi -Sinta3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JATISI%20Sinta-3.pdf)
 
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Terakreditasi/3__Jurnal_JATISI_Sinta_3_Maniah-cek%20similarity.pdf)
+
+[Jurnal JURTEKSI Sinta-3](./Jurnal%20Nasional%20Terakreditasi/Jurnal%20JURTEKSI%20Sinta-3.pdf)
+
+[Klik SIMIALIRITY JURTEKSI Sinta-3](./Jurnal%20Nasional%20Terakreditasi/Jurnal_JURTEKSI_Sinta_3_Similarity.pdf)
 
 ## Jurnal Nasional Tidak Terakreditasi
 [Improve Volume 10, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/Improve_10-1-Maniah.pdf)
@@ -33,8 +39,7 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-10.1/5__Improve_10_1_Maniah_cek%20similarity.pdf)
 
 
-#
-[Improve Volume 11, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
+# [Improve Volume 11, No.1](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-11.1/Improve_11-1.pdf)
 
 [Klik untuk cek similarity](./Jurnal%20Nasional%20Tidak%20Terakreditasi/Improve-11.1/6__Improve_11_1_Maniah_4_10-cek%20similarity.pdf)
 
