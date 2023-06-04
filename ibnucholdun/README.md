@@ -21,6 +21,7 @@
 [16BuktipaperHanifah](16BuktiPaperHanifah_10Mei2023.pdf)
 [17BuktipaperFitrinda](17BuktiPaperFitrinda_10Mei2023.pdf)
 [18BuktipaperBhasDaf](18BuktiPaperBhasDaf_10Mei2023.pdf)
+[19BuktipaperDIKW_Ibnu](19Bukti_ImproveDIKW_20Mei2023.pdf)
 
 ## Ini BUKTI HAKI
 
@@ -83,6 +84,7 @@
 [16CekPlagiasiPaperHanifah](16CekPlagiasiPaperHanifah_9Mei2023.pdf)
 [17CekPlagiasiPaperFitrinda](17CekPlagiasipaperFitrinda_9Mei2023.pdf)
 [18CekPlagiasiPaperBhasDaf](18CekPlagiasiPaperBhaswaraDafa_9Mei2023.pdf)
+[19CekPlagiasiPaperDIKW](19CekSimilarityArtikel_DIKWIbnu_20Mei2023.pdf)
 
 ## BUKTI Penelitian mulai 1 Mei 2023
 
