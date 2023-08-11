@@ -1,7 +1,8 @@
 # Muhammad Ibnu Choldun 
 
 ## DAFTAR ARTIKEL JURNAL ATAU PROSIDING
-[1 A Novel Approach in Determining Neural Networks Architecture...](BuktiICAIIT2019.pdfUKTI PAPER
+[1 A Novel Approach in Determining Neural Networks Architecture...](KorespondensiPeerJ%20Computer%20Science_10April2023.pdf)
+##
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
 [2BuktiPaperPeerJ](2BuktiPaperPeerJ_14Mei2023.pdf)
 [3BuktiPaperICSCA](3BuktiPaperICSCA_20Mei2023.pdf)
