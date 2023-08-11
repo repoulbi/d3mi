@@ -5,7 +5,6 @@
 
 ## BUKTI PAPER
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
-
 [2BuktiPaperPeerJ](2BuktiPaperPeerJ_14Mei2023.pdf)
 [3BuktiPaperICSCA](3BuktiPaperICSCA_20Mei2023.pdf)
 [4BuktiPaperICAIIT](4BuktiPaperICAIIT_20Mei2023.pdf)
