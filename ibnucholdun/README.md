@@ -1,8 +1,7 @@
 # Muhammad Ibnu Choldun 
 
 ## DAFTAR ARTIKEL JURNAL ATAU PROSIDING
-[1 A Novel Approach in Determining Neural Networks Architecture...](KorespondensiPeerJ%20Computer%20Science_10April2023.pdf)
-
+[1 A Novel Approach in Determining Neural Networks Architecture...](KorespondensiPeerJ%20Computer%20Science_10April2023.pdf) 
 [2 Determining the number of hidden layer and hidden neuron of neural network](2%20Determining%20the%20number%20of%20hidden%20layer%20and%20hidden%20neuron%20of%20neural%20network.pdf)
 
 [3 Proposed Modification of K-Means Clustering Algorithm](3%20Proposed%20Modification%20of%20K-Means%20Clustering%20Algorithm.pdf)
