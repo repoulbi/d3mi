@@ -39,6 +39,45 @@
 
 [19 Menentukan Topologi Neural Network Dari Sudut Pandang Filsafat](19%20Menentukan%20Topologi%20Neural%20Network%20Dari%20Sudut%20Pandang%20Filsafat.pdf)
 
+## DAFTAR ARTIKEL JURNAL ATAU PROSIDING
+[1 A Novel Approach in Determining Neural Networks Architecture...](KorespondensiPeerJ%20Computer%20Science_10April2023.pdf)
+
+[2 Determining the number of hidden layer and hidden neuron of neural network](2%20Determining%20the%20number%20of%20hidden%20layer%20and%20hidden%20neuron%20of%20neural%20network.pdf)
+
+[3 Proposed Modification of K-Means Clustering Algorithm](3%20Proposed%20Modification%20of%20K-Means%20Clustering%20Algorithm.pdf)
+
+[4 Pemodelan Perkembangan New Cases Covid-19](4%20Pemodelan%20Perkembangan%20New%20Cases%20Covid-19.pdf)
+
+[5 The Application of Repeated SMOTE](5%20The%20Application%20of%20Repeated%20SMOTE.pdf)
+
+[6 Rancangan Trucking Collaboration System](6%20Rancangan%20Trucking%20Collaboration%20System.pdf)
+
+[7 Perbandingan Metoda K-NN, Random Forest](7%20Perbandingan%20Metoda%20K-NN,%20Random%20Forest.pdf)
+
+[8 Penerapan SMOTE untuk Meningkatan Kinerja Klasifikasi Penilaian Kredit](8%20Penerapan%20SMOTE%20untuk%20Meningkatan%20Kinerja%20Klasifikasi%20Penilaian%20Kredit.pdf)
+
+[9 Hirarki Data, Informasi, Knowledge, Kecerdasan, dan Wisdom](9%20Hirarki%20Data,%20Informasi,%20Knowledge,%20Kecerdasan,%20dan%20Wisdom.pdf)
+
+[10 Klasifikasi Penelitian dalam Deep Learning](10%20Klasifikasi%20Penelitian%20dalam%20Deep%20Learning.pdf)
+
+[11 Sistem Informasi Agenda Rapat](11%20Sistem%20Informasi%20Agenda%20Rapat.pdf)
+
+[12 Perancangan Sistem Informasi Pengelolaan Pensiun](12%20Perancangan%20Sistem%20Informasi%20Pengelolaan%20Pensiun.pdf)
+
+[13 Perancangan Sistem Informasi Pengelolaan Kost](13%20Perancangan%20Sistem%20Informasi%20Pengelolaan%20Kost.pdf)
+
+[14 Determining the Number of Hidden Layers in Neural Network](14%20Determining%20the%20Number%20of%20Hidden%20Layers%20in%20Neural%20Network.pdf)
+
+[15 Determining the Neural Network Topology from the Viewpoint of Kuhn's](15%20Determining%20the%20Neural%20Network%20Topology%20from%20the%20Viewpoint%20of%20Kuhn's.pdf)
+
+[16 Determining the Neural Network Topology A Review](16%20Determining%20the%20Neural%20Network%20Topology%20A%20Review.pdf)
+
+[17 Guiding for Organizational Intelligence Research](17%20Guiding%20for%20Organizational%20Intelligence%20Research.pdf)
+
+[18 Pengklasteran Terhadap Negara-Negara](18%20Pengklasteran%20Terhadap%20Negara-Negara.pdf)
+
+[19 Menentukan Topologi Neural Network Dari Sudut Pandang Filsafat](19%20Menentukan%20Topologi%20Neural%20Network%20Dari%20Sudut%20Pandang%20Filsafat.pdf)
+
 ## BUKTI PAPER
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
 [2BuktiPaperPeerJ](2BuktiPaperPeerJ_14Mei2023.pdf)
