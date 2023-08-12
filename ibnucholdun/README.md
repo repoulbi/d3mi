@@ -80,11 +80,11 @@
 
 ## BUKTI Korespondensi Jurnal SINTA 2 (Sebagai syarat khusus)
 
-[1. Korespondensi JITEKI](korespondensi_IEEE%20Access1Mei2023.pdf)
+[1. Korespondensi JITEKI](KorespondensiJiteki_ibnu.pdf)
 
-[2. Korespondensi JEPIN](KorespondensiPeerJ%20Computer%20Science_1Mei2023.pdf)
+[2. Korespondensi JEPIN](KorespondensiJepin_Ibnu.pdf)
 
-[3. Korespondensi MATRIK](KorespondensiPeerJ%20Computer%20Science_1Mei2023.pdf)
+[3. Korespondensi MATRIK](KorespondensiMatrik_Ibnu.pdf)
 
 
 ## BUKTI PAPER
