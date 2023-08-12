@@ -78,6 +78,15 @@
 
 [19 Peer Review Menentukan Topologi Neural Network Dari Sudut Pandang Filsafat](19%20Peer%20Review%20Menentukan%20Topologi%20Neural%20Network%20Dari%20Sudut%20Pandang%20Filsafat.pdf)
 
+## BUKTI Korespondensi Jurnal SINTA 2 (Sebagai syarat khusus)
+
+[1. Korespondensi JITEKI](korespondensi_IEEE%20Access1Mei2023.pdf)
+
+[2. Korespondensi JEPIN](KorespondensiPeerJ%20Computer%20Science_1Mei2023.pdf)
+
+[3. Korespondensi MATRIK](KorespondensiPeerJ%20Computer%20Science_1Mei2023.pdf)
+
+
 ## BUKTI PAPER
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
 [2BuktiPaperPeerJ](2BuktiPaperPeerJ_14Mei2023.pdf)
