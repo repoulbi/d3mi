@@ -42,7 +42,7 @@
 ## PEER REVIEW ARTIKEL JURNAL ATAU PROSIDING
 [1 Peer Review A Novel Approach in Determining Neural Networks Architecture](1%20Peer%20Review%20A%20Novel%20Approach%20in%20Determining%20Neural%20Networks%20Architecture.pdf)
 
-[2 Peer Review Determining the number of hidden layer and hidden neuron of neural network](2%20Peer%20Review%20Determining%20the%20number%20of%20hidden%20layer%20and%20hidden%20neuron%20of%20neural%20network.pdf)
+[2 Peer Review Determining the number of hidden layer and hidden neuron of neural network](2%20Peer%20Review%20Determining%20the%20number%20of%20hidden%20layer%20and%20hidden%20neuron%20of%20neural%20network%20for%20wind.pdf)
 
 [3 Peer Review Proposed Modification of K-Means Clustering Algorithm](3%20Peer%20Review%20Proposed%20Modification%20of%20K-Means%20Clustering%20Algorithm.pdf)
 
