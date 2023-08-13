@@ -1,7 +1,7 @@
 # Muhammad Ibnu Choldun 
 
 ## DAFTAR ARTIKEL JURNAL ATAU PROSIDING
-[1 A Novel Approach in Determining Neural Networks Architecture...](KorespondensiPeerJ%20Computer%20Science_10April2023.pdf)
+[1 A Novel Approach in Determining Neural Networks Architecture...](1%20A%20Novel%20Approach%20in%20Determining%20Neural%20Networks%20Architecture.pdf)
 
 [2 Determining the number of hidden layer and hidden neuron of neural network](2%20Determining%20the%20number%20of%20hidden%20layer%20and%20hidden%20neuron%20of%20neural%20network.pdf)
 
