@@ -54,7 +54,7 @@
 
 [7 Peer Review Perbandingan Metoda K-NN, Random Forest](7%20Peer%20Review%20Perbandingan%20Metoda%20K-NN,%20Random%20Forest.pdf)
 
-[8 Peer Review Penerapan SMOTE untuk Meningkatan Kinerja Klasifikasi Penilaian Kredit](8%20Peer%20Review%20Penerapan%20SMOTE%20untuk%20Meningkatan%20Kinerja%20Klasifikasi%20Penilaian%20Kredit.pdf)
+[8 Peer Review Penerapan SMOTE untuk Meningkatan Kinerja Klasifikasi Penilaian Kredit](8%20Peer%20Review%20Penerapan%20SMOTE%20untuk%20Meningkatan%20Kinerja%20Klasifikasi%20Penilaian%20Kredit_2.pdf)
 
 [9 Peer Review Hirarki Data, Informasi, Knowledge, Kecerdasan, dan Wisdom](9%20Peer%20Review%20Hirarki%20Data,%20Informasi,%20Knowledge,%20Kecerdasan,%20dan%20Wisdom.pdf)
 
