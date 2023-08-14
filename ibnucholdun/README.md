@@ -48,7 +48,7 @@
 
 [4 Peer Review Pemodelan Perkembangan New Cases Covid-19](4%20Peer%20Review%20Pemodelan%20Perkembangan%20New%20Cases%20Covid-19.pdf)
 
-[5 Peer Review The Application of Repeated SMOTE](5%20Peer%20Review%20The%20Application%20of%20Repeated%20SMOTE.pdf)
+[5 Peer Review The Application of Repeated SMOTE](5%20Peer%20Review%20The%20Application%20of%20Repeated%20SMOTE_Matrik.pdf)
 
 [6 Peer Review Rancangan Trucking Collaboration System](6%20Peer%20Review%20Rancangan%20Trucking%20Collaboration%20System.pdf)
 
