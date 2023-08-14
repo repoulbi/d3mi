@@ -68,7 +68,7 @@
 
 [14 Peer Review Determining the Number of Hidden Layers in Neural Network](14%20Peer%20Review%20Determining%20the%20Number%20of%20Hidden%20Layers%20in%20Neural%20Network.pdf)
 
-[15 Peer Review Determining the Neural Network Topology from the Viewpoint of Kuhn's](15%20Peer%20Review%20Determining%20the%20Neural%20Network%20Topology%20from%20the%20Viewpoint%20of%20Kuhn's.pdf)
+[15 Peer Review Determining the Neural Network Topology from the Viewpoint of Kuhn's](15%20Peer%20Review%20Determining%20the%20Neural%20Network%20Topology%20from%20the%20Viewpoint%20of%20Kuhn's_2.pdf)
 
 [16 Peer Review Determining the Neural Network Topology A Review](16%20Peer%20Review%20Determining%20the%20Neural%20Network%20Topology%20A%20Review.pdf)
 
