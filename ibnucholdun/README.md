@@ -86,6 +86,14 @@
 
 [3. Korespondensi MATRIK](KorespondensiMatrik_Ibnu.pdf)
 
+## Bukti Tambahan PAK Dikti
+
+[Bukti ICSCA](BuktiICSCA_sertifikatAgustus2023.pdf)
+[Bukti ICAIIT](BuktiICAIIT_sertifikatAgustus2023.pdf)
+[Bukti Intellysis](BuktiIntellysis_SertifikatAgustus2023.pdf)
+[Bukti ISCLO](BuktiISCLO_SertifikatAgustus2023.pdf)
+[Bukti SENDIU](BuktiSENDIU_SertifikatAgustus2023.pdf)
+[Bukti SEMNASRISTEK](BuktiSemnasristek_sertifikatAgustus2023.pdf)
 
 ## BUKTI PAPER
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
