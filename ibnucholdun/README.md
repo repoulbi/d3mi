@@ -95,6 +95,13 @@
 [Bukti SENDIU](BuktiSENDIU_SertifikatAgustus2023.pdf)
 [Bukti SEMNASRISTEK](BuktiSemnasristek_sertifikatAgustus2023.pdf)
 
+
+## Bukti Tambahan PAK Dikti Korespondensi Prosiding Internasioanl
+
+[Korespondensi ICSCA](korespondensi_ICSCA_16Oktober2023.pdf)
+[Korespondensi ICAIIT](korespondensi_ICAIIT_16Oktober2023.pdf)
+[Korespondensi Intellysis](korespondensi_Intellysis_16Oktober2023.pdf)
+[Korespondensi ISCLO](korespondensi_ISCLO_16Oktober2023.pdf)
 ## BUKTI PAPER
 [1BuktiPaperIEEEAccess](1buktiPaperIEEEAccess_10Mei2023.pdf)
 [2BuktiPaperPeerJ](2BuktiPaperPeerJ_14Mei2023.pdf)
