@@ -167,8 +167,8 @@
 ## Ini CEK PLAGIASI
 
 [1CekPlagiasiIEEEAccess](1CekPlagiasiIEEEAccess_Ibnu_9Mei2023.pdf)
-[2CekPlagiasiPeerJ](2CekPlagiasipeerjIbnu2021_9Mei2023.pdf)
-[3CekPlagiasiICSCA](3CekPlagiasi2ICSCA2019Ibnu_9Mei2023.pdf)
+[2CekPlagiasiPeerJ](CPCekplagiasipeerjIbnu2021_cs_724.pdf)
+[3CekPlagiasiICSCA](CPcekplagiasiICSCA2019_p357_Ibnu.pdf)
 [4CekPlagiasiICAIIT](4CekPlagiasiicaiitIbnu_2019_9Mei2023.pdf)
 [5CekPlagiasiIntellisys](5CekPlagiasiPaperIntelisysIbnu_9Mei2023.pdf)
 [6CekPlagiasiJITEKI](6CekPlagiasipaperIbnuJiteki23696_9Mei2023.pdf)
