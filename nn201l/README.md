@@ -114,3 +114,6 @@ Repositori Dr. Maniah, S.Kom., M.T.
 [Paper SINERGI 2018](./Seminar%20Nasional/Paper%20SINERGI%202018.pdf)
 
 [cek similarity](./Seminar%20Nasional/4__Paper_SINERGI_2018_cek%20similarity.pdf)
+
+## PDP Tahun 2023
+[Laporan Akhir PDP Maniah 2023 Final](./PDP%20Tahun%202023/Laporan-Akhir-PDP-Maniah-2023-Final.pdf)
